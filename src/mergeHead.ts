@@ -1,4 +1,4 @@
-import XXH from 'xxhashjs';
+import XXH from './xxhashjs';
 import { Options } from './createMixin';
 
 interface JsonLDObject {
